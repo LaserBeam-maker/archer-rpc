@@ -1,0 +1,2 @@
+no=com.yao.archerrpc.retry.fault.NoRetryStrategy
+fixedInterval=com.yao.archerrpc.retry.fault.FixedIntervalRetryStrategy

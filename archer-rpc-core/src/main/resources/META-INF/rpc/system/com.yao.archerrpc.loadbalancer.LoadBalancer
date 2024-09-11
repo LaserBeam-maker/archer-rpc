@@ -1,0 +1,3 @@
+roundRobin=com.yao.archerrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.yao.archerrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.yao.archerrpc.loadbalancer.ConsistentHashLoadBalancer

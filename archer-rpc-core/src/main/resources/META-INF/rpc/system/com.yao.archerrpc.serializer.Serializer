@@ -1,0 +1,4 @@
+jdk=com.yao.archerrpc.serializer.JdkSerializer
+hessian=com.yao.archerrpc.serializer.HessianSerializer
+json=com.yao.archerrpc.serializer.JsonSerializer
+kryo=com.yao.archerrpc.serializer.KryoSerializer

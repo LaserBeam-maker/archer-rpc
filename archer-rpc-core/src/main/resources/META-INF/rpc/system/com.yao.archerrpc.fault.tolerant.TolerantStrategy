@@ -1,0 +1,4 @@
+failBack=com.yao.archerrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.yao.archerrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.yao.archerrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.yao.archerrpc.fault.tolerant.FailSafeTolerantStrategy
